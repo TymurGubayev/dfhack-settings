@@ -1,0 +1,13 @@
+# IMPORTANT: this .gitignore is whitelisting items instead of blacklisting them!
+
+# First, ignore everything
+*
+# But unignore this very file
+!.gitignore
+# Now, whitelist anything that's a directory
+!*/
+# add all the file types you're interested in.
+!*.md
+# ignore foreign directories
+stonesense/
+blueprints/
