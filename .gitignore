@@ -8,6 +8,12 @@
 !*/
 # add all the file types you're interested in.
 !*.md
+!*.dfstock
 # ignore foreign directories
+# - readme.md
 stonesense/
 blueprints/
+# - *.dfstock
+stocksettings/Gems/
+stocksettings/Magma Safe/
+stocksettings/MechGuides/
